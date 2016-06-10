@@ -1,0 +1,6 @@
+framework module Pods_IBdesignDemo {
+  umbrella header "Pods-IBdesignDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
