@@ -1,43 +1,12 @@
 PODS:
-  - Alamofire (3.4.0)
-  - AlamofireImage (2.4.0):
-    - Alamofire (~> 3.3)
-  - AlamofireNetworkActivityIndicator (1.0.1):
-    - Alamofire (~> 3.3)
-  - Crashlytics (3.7.0):
-    - Fabric (~> 1.6.3)
-  - Digits (2.2.0):
-    - TwitterCore (= 2.2.0)
-  - Fabric (1.6.7)
   - Kingfisher (2.4.1)
-  - Koloda (3.1.1):
-    - pop (~> 1.0)
-  - pop (1.0.9)
-  - TwitterCore (2.2.0):
-    - Fabric
 
 DEPENDENCIES:
-  - AlamofireImage
-  - AlamofireNetworkActivityIndicator
-  - Crashlytics
-  - Digits
-  - Fabric
   - Kingfisher (~> 2.4)
-  - Koloda
-  - TwitterCore
 
 SPEC CHECKSUMS:
-  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
-  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
-  AlamofireNetworkActivityIndicator: 49a6e39afb947136f7b1872bae2d684957c26697
-  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
-  Digits: 335c479574eb2bbc50be326c1daf505b68d87135
-  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
   Kingfisher: 41aed5b6c1ed8fa98cf6d75283ce89cf7890f517
-  Koloda: 782e61549cafec9fd69fc70c4a8b54bce997894d
-  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
-  TwitterCore: 115527630bb2986954adc928b8c895a92bcd57e5
 
-PODFILE CHECKSUM: f277a06c79b83791559c75fb5e6ce28a9774ecab
+PODFILE CHECKSUM: 7c3661cc88ddd7db670f42b18e5fb9a21a6b8a5b
 
 COCOAPODS: 1.0.0

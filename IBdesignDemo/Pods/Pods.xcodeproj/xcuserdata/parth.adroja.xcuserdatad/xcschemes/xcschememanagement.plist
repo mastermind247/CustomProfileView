@@ -4,27 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Alamofire.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>AlamofireImage.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>AlamofireNetworkActivityIndicator.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Kingfisher.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Koloda.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -34,49 +14,8 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>pop.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict>
-		<key>05094CC4A047119F7ADC14EE74C4881C</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>228FFC4E78F899B58C33C57F31513A8E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>2692A60CA9509B2E2A543556E170DCB4</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>748DCC45221FEE727E32FE29016D05D5</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>79C040AFDDCE1BCBF6D8B5EB0B85887F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>C45290004E0078130C91A71711094467</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E96E13C4D3B5B5FC0651440734C2BF4D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-	</dict>
+	<dict/>
 </dict>
 </plist>
